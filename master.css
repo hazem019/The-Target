@@ -247,7 +247,7 @@ display: none;
 position: relative;
 }
 
-/* .header-area .toggle-menu.menu-active::before {
+.header-area .toggle-menu.menu-active::before {
     content: '';
     border-width: 10px;
     border-style: solid;
@@ -255,7 +255,7 @@ position: relative;
     position: absolute;
     bottom: -15px;
     left: 10px;
-} */
+}
 
 .header-area .toggle-menu:focus{
     outline: none;
